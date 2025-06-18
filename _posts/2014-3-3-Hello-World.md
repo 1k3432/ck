@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Welcome to my blok!
+title: Welcome to my blog!
 ---
 This is my first step to explore Github.
-I am so happy you visit my blok!
+I am so happy you visit my blog!
 Having a nice day!
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
